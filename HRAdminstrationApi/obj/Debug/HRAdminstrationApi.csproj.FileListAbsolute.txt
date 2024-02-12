@@ -1,0 +1,6 @@
+D:\Projects\HRAdminstrationApi\bin\Debug\HRAdminstrationApi.dll
+D:\Projects\HRAdminstrationApi\bin\Debug\HRAdminstrationApi.pdb
+D:\Projects\HRAdminstrationApi\obj\Debug\HRAdminstrationApi.csproj.AssemblyReference.cache
+D:\Projects\HRAdminstrationApi\obj\Debug\HRAdminstrationApi.csproj.CoreCompileInputs.cache
+D:\Projects\HRAdminstrationApi\obj\Debug\HRAdminstrationApi.dll
+D:\Projects\HRAdminstrationApi\obj\Debug\HRAdminstrationApi.pdb
