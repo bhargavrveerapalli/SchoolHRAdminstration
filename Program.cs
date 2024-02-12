@@ -21,8 +21,8 @@ namespace SchoolHRAdminstration
             //Console.WriteLine($"Toatal Annaul Salaries(Including bonus) : {totalsalaries}");
             //Console.ReadKey();
 
-            Console.WriteLine($"Toatal Annaul Salaries(Including bonus) :{employees.Sum(e => e.Salary)}");
-            Console.ReadKey();
+            //Console.WriteLine($"Toatal Annaul Salaries(Including bonus) :{employees.Sum(e => e.Salary)}");
+            //Console.ReadKey();
         }
         public static void seeddata(List<IEmployee> employees)
         {
